@@ -1,0 +1,13 @@
+[package]
+name = "clue-ast"
+version = "0.0.0"
+description = "The Clue programming language abstract syntax tree."
+readme = "README.md"
+repository = "https://github.com/nikdeapen/clue-ast"
+homepage = "https://github.com/nikdeapen/clue-ast"
+authors = ["Nik Deapen <nik@deapen.com>"]
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+
